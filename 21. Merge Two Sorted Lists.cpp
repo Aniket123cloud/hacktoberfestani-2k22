@@ -58,7 +58,6 @@ public:
 };
 
 //recursion
-//https://leetcode.com/problems/merge-two-sorted-lists/discuss/9715/Java-1-ms-4-lines-codes-using-recursion
 //Runtime: 8 ms, faster than 71.22% of C++ online submissions for Merge Two Sorted Lists.
 //Memory Usage: 14.3 MB, less than 94.06% of C++ online submissions for Merge Two Sorted Lists.
 class Solution {
@@ -77,7 +76,6 @@ public:
 };
 
 //iterative
-//https://leetcode.com/problems/merge-two-sorted-lists/discuss/9735/Python-solutions-(iteratively-recursively-iteratively-in-place).
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Merge Two Sorted Lists.
 //Memory Usage: 14.5 MB, less than 55.22% of C++ online submissions for Merge Two Sorted Lists.
 class Solution {
