@@ -1,5 +1,4 @@
 //binary search
-//https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14425/Concise-O(log-N)-Binary-search-solution
 class Solution {
 public:
     int findMinIdx(vector<int>& nums){
